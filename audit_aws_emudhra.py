@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MPL-2.0
 """Read-only AWS certificate exposure inventory for the eMudhra incident.
 
 Usage:

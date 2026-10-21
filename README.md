@@ -375,3 +375,7 @@ Common conditions:
   differences can produce a different chain from the one a workload sees.
 - The scanner catches most per-service AWS API failures and continues, favoring
   broad collection over fail-fast behavior. Always assess `errors`.
+
+## License
+
+This project is licensed under the [Mozilla Public License 2.0](LICENSE).
